@@ -1,4 +1,4 @@
-Below is the function:
+// Below is the function in C++:
 
 int mySqrt(int x) {
     if (x == 0)
